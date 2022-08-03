@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\0 Chirag\\1 My_Android\\3\\TestFlutter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "E:\\0 Chirag\\1 My_Android\\3\\TestFlutter\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "175,-1",
+                        "endLines": "7,-1",
+                        "endColumns": "12,-1",
+                        "endOffsets": "477,-1"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,358",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "353,522"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Tue Aug 02 19:56:47 IST 2022
+base.0=E\:\\0 Chirag\\1 My_Android\\3\\TestFlutter\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
