@@ -26,7 +26,6 @@ The basic consept of this project to learn flutter with UI and components.
           Navigator.of(context).pop(); // dismiss dialog
         },
         child: Text("Cancel"));
-
     Widget btnAboutUs = TextButton(
         onPressed: () {
           Navigator.of(context).pop(); // dismiss dialog
@@ -87,7 +86,7 @@ Use customMessage method when you : onTap , onPress , onCLick on any button or v
 <b>Like this :</b> customMessage(context, "Click on done button...");
 <b>Gradle use : </b> fluttertoast: ^8.0.9 gradle
 
- customMessage(BuildContext context, var message){
+customMessage(BuildContext context, var message){
    // Flutter Custom Toast Message Show to use fluttertoast: ^8.0.9 gradle
     Fluttertoast.showToast(
         msg: message,
@@ -102,6 +101,7 @@ Use customMessage method when you : onTap , onPress , onCLick on any button or v
 <b>NetworkImage</b>
 
 When load image from any network or by URL you have to use NetworkImage widget.
+
 image: const DecorationImage(
                         image: NetworkImage(
                             'https://flutter.github.io/assets-for-api-docs/assets/widgets/owl-2.jpg'),
