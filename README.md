@@ -25,6 +25,7 @@ The basic consept of this project to learn flutter with UI and components.
         onPressed: () {
           Navigator.of(context).pop(); // dismiss dialog
         },
+        
         child: Text("Cancel"));
     Widget btnAboutUs = TextButton(
         onPressed: () {
