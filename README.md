@@ -62,11 +62,12 @@ The basic consept of this project to learn flutter with UI and components.
 <b>onCLick to nevigate screen</b>
 
 Here, AboutUs() is your next screen class name
-
+{
   Navigator.push(
             context,
             MaterialPageRoute(builder: (context) => const AboutUs()),   // Redirect one screen to another screen
           );
+}
 
 <b>Snachbar toast message</b>
 
