@@ -1,6 +1,14 @@
 # testflutter
 
-A new Flutter project.
+The basic consept of this project to learn flutter with UI and components.
+
+<b>Project must contsins:</b>
+- SplashScreen Setup
+- AlertDialog 
+- Navigate to one activity to next activity
+- Snachbar toast message
+- Fluttertoast message with customization
+- NetworkImage to load image from internet or any URL
 
 ## Getting Started
 
