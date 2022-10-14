@@ -18,7 +18,7 @@ The basic consept of this project to learn flutter with UI and components.
   - <item name="android:windowBackground">@drawable/splashscreen</item>
 
 <b>For AlertDialog : </b>
-
+...
  showAlertDialog01(BuildContext context) {
     final String text;
     Widget btnCancel = TextButton(
@@ -58,7 +58,7 @@ The basic consept of this project to learn flutter with UI and components.
           return alertDialog;
         });
   }
-
+...
 <b>onCLick to nevigate screen</b>
 
 Here, AboutUs() is your next screen class name
