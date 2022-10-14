@@ -1,4 +1,4 @@
-# testflutter
+# Flutter App Development
 
 The basic consept of this project to learn flutter with UI and components.
 
@@ -17,7 +17,7 @@ The basic consept of this project to learn flutter with UI and components.
 - now open style.xml from value folder and add your image name here:
   - <item name="android:windowBackground">@drawable/splashscreen</item>
 
-...
+
 <b>For AlertDialog : </b>
 
  showAlertDialog01(BuildContext context) {
@@ -59,7 +59,7 @@ The basic consept of this project to learn flutter with UI and components.
           return alertDialog;
         });
   }
-...
+
 <b>onCLick to nevigate screen</b>
 
 Here, AboutUs() is your next screen class name
